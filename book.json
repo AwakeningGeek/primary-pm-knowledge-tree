@@ -1,9 +1,13 @@
 {
   "title": "初级产品经理知识树",
   "description": "这里将完整的描述产品经理的知识树，通过输出来帮助帮助自己梳理知识结构",
-  "language": "zh",
+  "author": "feiyu",
+  "gitbook": "3.2.3",
+  "language": "zh-hans",
+  "root": ".",
   "plugins": [
-    "github"
+    "github",
+    "-sharing"
   ],
   "pluginsConfig": {
     "github": {
